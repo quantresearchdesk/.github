@@ -16,6 +16,19 @@
   alt="QRD animated introduction"
 />
 
+
+## People and contact
+
+QRD is developed by **Roberto Coccaro** and **Amin Hydar Ali**. We work across quantitative research, software engineering and the publication of systematic market studies.
+
+<table>
+<tr><td><strong>Website</strong></td><td><a href="https://quantresearchdesk.com">quantresearchdesk.com</a></td></tr>
+<tr><td><strong>Research papers</strong></td><td><a href="https://quantresearchdesk.com/research">Research library</a></td></tr>
+<tr><td><strong>General contact</strong></td><td><a href="mailto:contact@quantresearchdesk.com">contact@quantresearchdesk.com</a></td></tr>
+<tr><td><strong>Roberto</strong></td><td><a href="mailto:roberto@quantresearchdesk.com">roberto@quantresearchdesk.com</a></td></tr>
+<tr><td><strong>Amin</strong></td><td><a href="mailto:amin@quantresearchdesk.com">amin@quantresearchdesk.com</a></td></tr>
+</table>
+
 <br />
 
 <p>
