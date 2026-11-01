@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./qrd-logo.png" alt="Quant Research Desk logo" width="140" />
+<img src="/qrd-logo.png" alt="Quant Research Desk logo" width="140" />
 
 <h1>Quant Research Desk</h1>
 
